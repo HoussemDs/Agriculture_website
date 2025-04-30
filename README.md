@@ -4,15 +4,15 @@ This project provides a powerful tool for agricultural satellite image segmentat
 
 ## Features
 - Image Segmentation : 
-![main_page](data\main_page.png)
+![main_page](data/main_page.png)
 - Interactive Visualization : View segmentation masks with customizable colormaps
-![segmentation_page](data\segmentation_page.png)
+![segmentation_page](data/segmentation_image.png)
 - Overlay Analysis : See segmentation results overlaid on the original image with adjustable transparency
-![segmentation_overlay_page](data\segmentation_overlay_page.png)
+![segmentation_overlay_page](data/segmentation_overlay_image.png)
 - Statistical Analysis : Get detailed statistics about the segmentation results
-![statiscal_analysis_page](data\statiscal_analysis_page.png)
+![statiscal_analysis_page](data/statistical_analysis.png)
 - Download Options : Save visualization results for reports and further analysis
-![download_page](data\download_page.png)
+![download_page](data/download_options.png)
 ## Demo
 ## Installation
 ### Prerequisites
