@@ -73,7 +73,6 @@ agricultural-satellite-segmentation/
 ├── requirements.txt               # Project dependencies
 └── README.md                      # Project documentation
  ```
-```
 
 ## Future Improvements
 - Time-series analysis for crop growth monitoring
@@ -87,6 +86,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-- Thanks to [Dataset Provider] for the agricultural satellite imagery
-- The segmentation model architecture is based on [Reference Paper]
+- Thanks to kaggle for the  satellite imagery
+- The segmentation model architecture is based on unet
 - Streamlit for the interactive web application framework
